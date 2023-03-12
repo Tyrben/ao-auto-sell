@@ -1,6 +1,6 @@
 # ao-auto-sell
 
-| ⚠ This bot is not complient with the [Terms and Conditions of SBI](https://albiononline.com/terms_and_conditions) §13.3. <br />It is advised not to use it in game!|
+| ⚠ **Disclaimer**: This bot is not complient with the [Terms and Conditions of SBI](https://albiononline.com/terms_and_conditions) §13.3. <br />It is advised not to use it in game!|
 |--- |
 
 Albion Online auto click, auto sell bot (Caerleon black market).<br/>
