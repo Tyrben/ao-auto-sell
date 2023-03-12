@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 ## Jython script
+## found on https://answers.launchpad.net/sikuli/+question/699864
 
 ## Build jar version of this sikuli script (is multiplatform)
 
