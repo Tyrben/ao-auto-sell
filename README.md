@@ -16,3 +16,12 @@ Follow instructions on the [Official Sikuli documentation](https://sikulix.githu
  - xdotool 
  - wmctrl
  
+## Run
+
+Use the scripts which rely on the generated *.jar*.
+Or run it from the source code:
+
+```
+java -jar sikulixide-2.0.5-lux.jar -r auto-sell/sell_all.sikuli
+```
+Or run it from the IDE.
