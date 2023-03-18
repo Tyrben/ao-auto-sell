@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env jython
 
 ## Jython script
 ## found on https://answers.launchpad.net/sikuli/+question/699864

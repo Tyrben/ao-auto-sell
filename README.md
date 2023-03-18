@@ -19,6 +19,7 @@ Follow instructions on the [Official Sikuli documentation](https://sikulix.githu
 ## Run
 
 Use the scripts which rely on the generated *.jar*.
+
 Or run it from the source code:
 
 ```
